@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+<!-- Please update value in the {}  -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Reusable Button Component</h1>
 
-## Available Scripts
+<div align="center">
+   A solution for the reuseable button component challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-In the project directory, you can run:
+<div align="center">
+  <h3>
+    <a href="https://browyn-reusable-button.netlify.app">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
 
-### `npm test`
+<!-- OVERVIEW -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Overview
 
-### `npm run build`
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Where can I see your demo?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  You can have a look at the demo over  <a href="https://browyn-reusable-button.netlify.app">
+      here
+    </a>
 
-### `npm run eject`
+- What was your experience?
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  Well, it wasn't really a difficult task, however, I was really hooked up on figuring out what might be the best approach and all, still it was interesting in terms of critical thinking and problem solving.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- What have you learned/improved?
+  With each passing challenge, I feel an increase in my problem solving skills and critical thinking, and i very much felt same way after completing this challenge.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Is your solution perfect?
+  Lol, I can't say for sure, but I did make sure to write clean codes, by following best practices, and I am pretty sure anyone who hops on it will give me a thumbs up.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+### Built With
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://reactjs.org/)
 
-### Code Splitting
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-### Analyzing the Bundle Size
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- User story: User should be able to see different button types: default, outline and text
+- User story: User should be able to choose to disable box-shadow
+- User story: User should be able to choose to disable the button
+- User story: User should be able to choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
+- User story: User should be able to have different button sizes
+- User story: User should be able to have different colors (
+  primary, secondary and danger are deafualt colors, however, the user is able to add custom class nameto style the buttonas per preference
+)
+- User story: When user hover or focus on a button, User should be able to see visual indicators
+- User story: User should be able to still access all button attributes
+- User Story: User can and is also able to change the text transformation by using the "textTransform" attr with a value of either "uppercase, lowercase or capitalize", default is capitalize.
+- User Story:  User is also able to make the button take up full width of container when necessary, by using the "fullWidth" attr.
+- User Story:  The button component is also capable of calling an event, such as "onClick" event.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contact
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub [@browyn](https://{github.com/browyn})
+- Twitter [@browyn_louis](https://{twitter.com/browyn_louis})
