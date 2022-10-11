@@ -76,6 +76,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 )
 - User story: When user hover or focus on a button, User should be able to see visual indicators
 - User story: User should be able to still access all button attributes
+
+#### Added User Story
+
 - User Story: User can and is also able to change the text transformation by using the "textTransform" attr with a value of either "uppercase, lowercase or capitalize", default is capitalize.
 - User Story:  User is also able to make the button take up full width of container when necessary, by using the "fullWidth" attr.
 - User Story:  The button component is also capable of calling an event, such as "onClick" event.
